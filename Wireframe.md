@@ -6,7 +6,7 @@
 ![หน้าแรก NO LOGIN](https://user-images.githubusercontent.com/48233991/77295878-422bd400-6d19-11ea-8285-8c7f11456902.png)
 ### 2. เข้าสู่ระบบ
 ![เข้าสู่ระบบ](https://user-images.githubusercontent.com/48233991/77296016-78695380-6d19-11ea-8eec-8ee57a3155d3.png)
-### 3.  สมัครมาชิก
+### 3.  สมัครสมาชิก
 ![สมัครสมาชิก](https://user-images.githubusercontent.com/48233991/77296085-9b940300-6d19-11ea-87f3-54dcd2c4e4ee.png) 
 ### 4.หน้าแรก หลังจาก login
 ![หน้าแรก login-1](https://user-images.githubusercontent.com/48233991/77296312-080f0200-6d1a-11ea-82ec-7ff015d33222.png)

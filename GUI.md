@@ -1,4 +1,6 @@
 # Sightseer
+### ลิงก์ prototype
+### https://www.figma.com/file/At7k0KowKxmjx2aFfM76ZI/%E0%B8%87%E0%B8%B2%E0%B8%99-ui
 ### 1.หน้าแรก
 ![หน้าแรก NO LOGIN](https://user-images.githubusercontent.com/48233991/77298778-021b2000-6d1e-11ea-9142-dfa7ac587b0c.png)
 ### 2. เข้าสู่ระบบ
